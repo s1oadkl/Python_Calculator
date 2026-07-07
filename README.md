@@ -9,6 +9,12 @@ A beginner-friendly command-line calculator built with Python, featuring reusabl
 - Division-by-zero protection
 - Clean function-based structure
 
+## Technologies
+Python
+
+## Status
+Complete Practice Project
+
 ## Run
 
 python calculator.py
